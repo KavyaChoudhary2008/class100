@@ -1,0 +1,61 @@
+Tip- pip install packages
+npm- node package manager
+we use npm to install packages in react native
+to install python packages we use pip
+
+syntax:
+pip install packages
+pip install howdoi
+
+howdoi- is like google to python developers , it is a command line tool written in python
+it gives answers to do basic programmes in python
+syntax:
+howdoi write functions in python
+howdoi declare variables in python
+howdoi write class in python
+
+how to check the pip version?
+pip3 --version
+
+how to install pip
+python get-pip.py
+(we should save get-pip.py in our project folder)
+
+
+OOPS->Object Oriented Programming
+It is a way of structuring code where programmers imagine everything as an object.
+We design objects using class(blueprint) and create a new object using class
+Python is also object Oriented
+--------------------------------------------------------
+
+Indentation is very important in python
+A class is defined in python with the keyword 
+
+class Student:
+
+or
+
+class Student(object):
+
+---------------------------------------
+_init_ is a predefined function in python and it is very similar to our
+constructor in javascript.It is called whenever we create an object
+using the class.It takes some arguments and creates an object using arguments.
+
+self -is similar to 'this' keyword in javascript.
+
+------------------------------
+python does not need keyword 'new'
+
+you can create new objects using the class by using the class name.
+
+Ex:
+
+John= Student("John",12,6)
+This is how we create objects in python
+-----------------------------------
+
+class functions which begin with double underscore (--) are called special
+functions as they have special meaning.
+
+-------------------------------------------
